@@ -1,44 +1,68 @@
-<h1 align="center">Hi 👋, I'm Roshu18</h1>
-<h3 align="center">A Passionate Ethical Hacker & Bug Hunter from India</h3>
-
-<img align="right" alt="Hacking" width="400" src="https://media.tenor.com/PP9v7VmIsxoAAAAd/hacker-hacker-man.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshu18&label=Profile%20views&color=0e75b6&style=flat" alt="roshu18" /> </p>
-
-- 🔭 Currently working on **Advanced Penetration Testing Techniques**
-- 🌱 Learning **Advanced Exploit Development**
-- 👯 Looking to collaborate on **Security Research Projects**
-- 💬 Ask me about **XSS, SQLi, Exploit Development, Payload Crafting**
-- 📫 Reach me: **ethicalhat1@gmail.com**
-- ⚡ Fun fact: **I can solve Rubik's Cube in under 2 minutes**
-
-<h3 align="left">🛠️ Tech Stack</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=30&duration=4000&pause=1000&color=00F72F&center=true&vCenter=true&width=600&height=80&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Roshu18;Ethical+Hacker+%E2%9A%99%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%94%A5;Cybersecurity+Enthusiast+%F0%9F%92%BB" alt="Typing Animation" />
 </p>
-
-<h3 align="left">🌐 Connect With Me</h3>
-<p align="left">
-  <a href="https://discord.gg/https://disurl.me/mastiizone" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MastiiZone Discord" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshu18&show_icons=true&locale=en&layout=compact&theme=dark" alt="roshu18" />
-  <img src="https://github-readme-stats.vercel.app/api?username=roshu18&show_icons=true&locale=en&theme=dark" alt="roshu18" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshu18&theme=dark" alt="roshu18" />
+  <a href="https://discord.gg/mastiizone">
+    <img src="https://dcbadge.vercel.app/api/server/mastiizone?style=flat" alt="Discord">
+  </a>
+  <a href="mailto:ethicalhat1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
+
+---
+
+### 🛠️ **Cyber Arsenal**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,github,git,vim" alt="Technical Skills" />
+</p>
+
+<div align="center">
+  
+**Security Tools**  
+![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=black)
+
+**Hacking Environments**  
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![ParrotOS](https://img.shields.io/badge/Parrot_OS-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
+
+---
+
+### 📊 **Hacker Stats**
+
+<div align="center">
+  
+[![Roshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshu18&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true)](https://github.com/roshu18)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshu18&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/roshu18)
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=roshu18&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 💻 **Hacker Terminal**
+
+```bash
+#!/bin/bash
+
+# Current Mission
+echo "🔍 Currently Hunting: Web Application Vulnerabilities"
+echo "🔓 Recent Exploits: XSS | SQLi | CSRF | SSRF"
+echo "🛡️ Security Focus: OWASP Top 10 | MITRE ATT&CK"
+echo "📡 Live Targets: *.bugcrowd.com | *.hackerone.com"
+
+# Active Connections
+nmap_scan=$(nmap -sV -T4 example.com)
+echo "${nmap_scan}"
