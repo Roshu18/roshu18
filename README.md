@@ -1,93 +1,68 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=800&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%8C%8D%2C+I'm+Regliscus;Senior+Software+Engineer+%F0%9F%92%BB;Cloud+Architect+%E2%98%81%EF%B8%8F;Tech+Lead+%F0%9F%9A%80;Open+Source+Maintainer+%E2%AD%90" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F72F&center=true&vCenter=true&width=700&height=80&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Roshu18;Ethical+Hacker+%E2%9A%99%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%94%A5;Cybersecurity+Enthusiast+%F0%9F%92%BB" alt="Typing Animation" />
 </p>
-
-<div align="center">
-  
-[![Matrix Animation](https://raw.githubusercontent.com/regliscus/regliscus/main/matrix.svg)](https://github.com/regliscus)
-  
-</div>
 
 <p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=regliscus.regliscus">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=regliscus.regliscus" alt="Visitor Count"/>
+  <a href="https://discord.gg/SeUPPZDMKt">
+    <img src="https://dcbadge.vercel.app/api/server/mastiizone?style=flat" alt="Discord">
   </a>
-  <a href="https://wakatime.com/@regliscus">
-    <img src="https://wakatime.com/badge/user/xxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg?style=flat-square" alt="WakaTime"/>
+  <a href="mailto:ethicalhat1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
-### 🚀 **Tech Stack & Tools**
+<h2 align="center">🛠️ Cyber Arsenal</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,github,git,vim" alt="Technical Skills" />
+</p>
 
 <div align="center">
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Frameworks**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
+  
+  <h3>🛡️ Security Tools</h3>
+  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=black">
+  
+  <h3>💻 Hacking Environments</h3>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Parrot_OS-4D4D4D?style=for-the-badge&logo=linux&logoColor=white">
 </div>
 
 ---
 
-### 📊 **Dynamic Stats**
+<h2 align="center">📊 Hacker Stats</h2>
 
 <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=roshu18&show_icons=true&theme=radical&bg_color=000000&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshu18&layout=compact&theme=radical&bg_color=000000&hide_border=true" />
+  
+</div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=regliscus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30&custom_title=Development+Metrics)](https://github.com/regliscus)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regliscus&layout=compact&theme=radical&hide=html,css)](https://github.com/regliscus)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=regliscus&theme=react-dark&area=true&hide_border=true)](https://github.com/regliscus)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=regliscus&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=roshu18&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  
 </div>
 
 ---
 
-### 🌟 **Featured Projects**
+<h2 align="center">💻 Hacker Terminal</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/regliscus/awesome-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=regliscus&repo=awesome-project&theme=radical" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/regliscus/innovation-lab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=regliscus&repo=innovation-lab&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
+```bash
+#!/bin/bash
 
----
+# 🎯 Current Mission
+echo "🔍 Currently Hunting: Web Application Vulnerabilities"
+echo "🔓 Recent Exploits: XSS | SQLi | CSRF | SSRF"
+echo "🛡️ Security Focus: OWASP Top 10 | MITRE ATT&CK"
+echo "📡 Live Targets: *.bugcrowd.com | *.hackerone.com"
 
-### 💻 **Live Coding Preview**
-
-```python
-async def main():
-    while True:
-        try:
-            code = await get_inspired()
-            review = peer_review(code)
-            if review.approved:
-                deploy_to_production()
-                monitor_performance()
-        except TechnicalDebtError as e:
-            refactor_strategically()
-        finally:
-            celebrate_success() 🎉
+echo "\n🌐 Running Active Scan..."
+sleep 2
+nmap_scan=$(nmap -sV -T4 example.com)
+echo "${nmap_scan}"
