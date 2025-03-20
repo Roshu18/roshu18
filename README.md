@@ -45,10 +45,11 @@
 </div>
 
 <div align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=roshu18&label=Profile+Views&color=red&style=for-the-badge" />
   <img src="https://badges.pufler.dev/commits/monthly/roshu18" />
   <img src="https://badges.pufler.dev/repos/roshu18" />
+  <img src="https://img.shields.io/badge/Fake%20Bugs%20Reported-999%2B-red?style=for-the-badge&logo=bugcrowd" />
+  <img src="https://img.shields.io/badge/CTF%20Wins-25-blue?style=for-the-badge&logo=hackthebox" />
 </div>
 
 ---
