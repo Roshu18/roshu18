@@ -38,15 +38,17 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=roshu18&show_icons=true&theme=radical&bg_color=000000&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshu18&layout=compact&theme=radical&bg_color=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshu18&show_icons=true&theme=radical&bg_color=000000&hide_border=true&include_all_commits=true&custom_title=🔥+Elite+Hacker+Stats&line_height=27&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshu18&layout=compact&theme=radical&bg_color=000000&hide_border=true&langs_count=10" />
   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshu18&theme=radical&hide_border=true&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF" />
 </div>
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=roshu18&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  
+  <img src="https://komarev.com/ghpvc/?username=roshu18&label=Profile+Views&color=red&style=for-the-badge" />
+  <img src="https://badges.pufler.dev/commits/monthly/roshu18" />
+  <img src="https://badges.pufler.dev/repos/roshu18" />
 </div>
 
 ---
@@ -64,5 +66,14 @@ echo "📡 Live Targets: *.bugcrowd.com | *.hackerone.com"
 
 echo "\n🌐 Running Active Scan..."
 sleep 2
-nmap_scan=$(nmap -sV -T4 example.com)
-echo "${nmap_scan}"
+
+echo "[+] Scanning 200+ live hosts..."
+sleep 3
+echo "[+] Found 37 vulnerable endpoints."
+sleep 2
+echo "[!] Exploiting SQL Injection on target.com/login... SUCCESS"
+sleep 2
+echo "[+] Extracting admin credentials... DONE"
+echo "👤 Admin: root | Password: P@ssw0rd123"
+
+echo "🚀 Mission Complete! Time to report the findings."
