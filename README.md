@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/SeUPPZDMKt">
+  <a href="https://discord.gg/pmrnC7fjsg">
     <img src="https://dcbadge.vercel.app/api/server/mastiizone?style=flat" alt="Discord">
   </a>
   <a href="mailto:ethicalhat1@gmail.com">
